@@ -1,6 +1,6 @@
 # Toxicity-Rabbit-Hole-Dataset    [[paper](https://arxiv.org/pdf/2309.06415)]
 
-This repository includes the necessary components of the RabbitHole dataset mentioned in our recent paper "Down the Toxicity Rabbit Hole: A Framework to Bias Audit Large Language
+>This repository includes the necessary components of the RabbitHole dataset mentioned in our recent paper "Down the Toxicity Rabbit Hole: A Framework to Bias Audit Large Language
 Models with Key Emphasis on Racism, Antisemitism, and Misogyny", published in IJCAI 2024, AI and Social Good track.
 
 Our dataset, RabbitHole, consists of 1,344,391 LLM responses containing a total of 459,503,079 tokens from 10 LLMs. 
