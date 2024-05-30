@@ -18,3 +18,15 @@ WARNING: This repository contains and discusses content that is offensive or ups
 To download this dataset, you have to sign a Google form with your affiliations and intended purposes for the usage of this dataset.
 
 
+## Citation
+Please use the following to cite this work:
+
+> @misc{dutta2024toxicity,
+      title={Down the Toxicity Rabbit Hole: A Novel Framework to Bias Audit Large Language Models}, 
+      author={Arka Dutta and Adel Khorramrouz and Sujan Dutta and Ashiqur R. KhudaBukhsh},
+      year={2024},
+      eprint={2309.06415},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
