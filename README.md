@@ -1,4 +1,4 @@
-# Toxicity-Rabbit-Hole-Dataset
+# Toxicity-Rabbit-Hole-Dataset [paper](https://arxiv.org/pdf/2309.06415)
 
 This repository includes the necessary components of the RabbitHole dataset mentioned in our recent paper "Down the Toxicity Rabbit Hole: A Framework to Bias Audit Large Language
 Models with Key Emphasis on Racism, Antisemitism, and Misogyny", published in IJCAI 2024, AI and Social Good track.
@@ -21,7 +21,8 @@ To download this dataset, you have to sign a Google form with your affiliations 
 ## Citation
 Please use the following to cite this work:
 
-> @misc{dutta2024toxicity,
+```
+ @misc{dutta2024toxicity,
       title={Down the Toxicity Rabbit Hole: A Novel Framework to Bias Audit Large Language Models}, 
       author={Arka Dutta and Adel Khorramrouz and Sujan Dutta and Ashiqur R. KhudaBukhsh},
       year={2024},
@@ -29,4 +30,4 @@ Please use the following to cite this work:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-
+```
